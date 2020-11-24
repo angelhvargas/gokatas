@@ -26,11 +26,11 @@ More about Go: https://golang.org/doc/
 
 - k1: getting started
 - k2: values in Go
+- k3: print command line arguments
 
 ## a bit more complex katas:
 
 - ka100: naive word wrap
-- ka101: print command line arguments
 
 ## harder katas: 
 
