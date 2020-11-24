@@ -10,10 +10,28 @@
 
 This repo holds a set of Go samples to understand a bit more about this useful programing language. Which I'm using at to learn more about it.
 
-## Kata's list:
+Simply clone the repo and start modififying those small programs.
 
-- K1: Getting started
-- K2: Values in Go
+```
+git clone https://github.com/angelhvargas/gokatas.git
 
-## Advanced Katas
-- K100: word wrap 
+cd gokatas/katas
+```
+
+More about Go: https://golang.org/doc/
+
+## Katas list:
+
+### fundamentals:
+
+- k1: getting started
+- k2: values in Go
+
+## a bit more complex katas:
+
+- ka100: naive word wrap
+- ka101: print command line arguments
+
+## harder katas: 
+
+-
