@@ -31,6 +31,7 @@ More about Go: https://golang.org/doc/
 ## a bit more complex katas:
 
 - ka100: naive word wrap
+- ka101: samurai suicide
 
 ## harder katas: 
 
